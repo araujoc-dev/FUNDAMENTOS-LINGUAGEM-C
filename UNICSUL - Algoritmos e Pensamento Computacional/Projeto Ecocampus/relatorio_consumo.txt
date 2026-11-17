@@ -1,0 +1,10 @@
+========================================
+       ECOCAMPUS - RELATORIO
+========================================
+Quantidade de locais: 10
+Consumo total: 7437.75 litros
+Consumo medio: 743.77 litros
+Maior consumo: 1200.50 litros
+Local com maior consumo: Restaurante
+Locais acima do limite: 5
+========================================
