@@ -1,0 +1,14 @@
+VALIDACAO DA ENTREGA RANKLAB
+Compilacao GCC: SUCESSO
+Flags: -std=c11 -Wall -Wextra -pedantic
+Teste principal: PASSOU
+Teste ja ordenado: PASSOU
+Teste ordem inversa: PASSOU
+Teste valores repetidos: PASSOU
+Teste validacao (-5 recusado): PASSOU
+Equivalencia dos tres vetores em todos os testes: PASSOU
+
+Comparacoes:
+Teste 1: Bubble=45, Selection=45, Insertion=29
+Teste 2: Bubble=45, Selection=45, Insertion=9
+Teste 3: Bubble=45, Selection=45, Insertion=45

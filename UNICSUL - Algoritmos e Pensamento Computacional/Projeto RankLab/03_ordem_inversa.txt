@@ -1,0 +1,21 @@
+========== RANKLAB ==========
+Central de Ordenacao Inteligente
+
+Digite 10 pontuacoes inteiras entre 0 e 100.
+Pontuacao 1: Pontuacao 2: Pontuacao 3: Pontuacao 4: Pontuacao 5: Pontuacao 6: Pontuacao 7: Pontuacao 8: Pontuacao 9: Pontuacao 10: 
+========== RESULTADOS ==========
+Original:   100 90 80 70 60 50 40 30 20 10 
+Bubble:     10 20 30 40 50 60 70 80 90 100 
+Selection:  10 20 30 40 50 60 70 80 90 100 
+Insertion:  10 20 30 40 50 60 70 80 90 100 
+
+Resultados equivalentes: SIM
+Menor pontuacao: 10
+Maior pontuacao: 100
+Mediana: 55.00
+
+Comparacoes:
+Bubble Sort:    45
+Selection Sort: 45
+Insertion Sort: 45
+================================
